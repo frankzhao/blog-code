@@ -1,4 +1,5 @@
 blog-code
 =========
 
-Code for blog.frankzhao.net
+Code featured on my blog:
+http://blog.frankzhao.net
